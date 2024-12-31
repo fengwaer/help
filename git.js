@@ -1,7 +1,7 @@
 //—————————————————————————生成公钥、私钥命令在git bash中执行———————————————
 
 //生成公钥、私钥
-ssh-keygen -t rsa -C "516367513@qq.com"
+ssh-keygen -t rsa -C "123456@qq.com"
 
 //查看公钥
 cat ~/.ssh/id_rsa.pub
